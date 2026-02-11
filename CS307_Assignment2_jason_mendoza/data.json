@@ -1,0 +1,13 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "TX-213704",
+      "user_id": "jason",
+      "amount": "30.95",
+      "category": "Food",
+      "occurred_on": "2026-02-10",
+      "note": "weekly shopping",
+      "tx_type": "EXPENSE"
+    }
+  ]
+}
